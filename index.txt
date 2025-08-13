@@ -12,3 +12,6 @@ Just testing git and github...
 //again trying back the same thing.. making changes in local and commiting..
 
 //feature 1 completed... and present in local.
+
+
+//adding a feature 2 in reremote in feature branch but not merged into main
