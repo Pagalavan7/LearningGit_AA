@@ -10,3 +10,6 @@ Just testing git and github...
 //adding a line in local after adding a line in remote.
 
 //again trying back the same thing.. making changes in local and commiting..
+
+
+//adding a feature 2 in reremote in feature branch but not merged into main
